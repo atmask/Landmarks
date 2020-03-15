@@ -15,6 +15,7 @@
 		159AF88E241EA29E005A365D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 159AF88C241EA29E005A365D /* LaunchScreen.storyboard */; };
 		159AF899241EA29F005A365D /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 159AF898241EA29F005A365D /* LandmarksTests.swift */; };
 		159AF8A4241EA29F005A365D /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 159AF8A3241EA29F005A365D /* LandmarksUITests.swift */; };
+		159AF8B4241EB0DC005A365D /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 159AF8B3241EB0DC005A365D /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		159AF89F241EA29F005A365D /* LandmarksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LandmarksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		159AF8A3241EA29F005A365D /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		159AF8A5241EA29F005A365D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		159AF8B3241EB0DC005A365D /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		159AF880241EA29D005A365D /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
+				159AF8B3241EB0DC005A365D /* CircleImage.swift */,
 				159AF881241EA29D005A365D /* AppDelegate.swift */,
 				159AF883241EA29D005A365D /* SceneDelegate.swift */,
 				159AF885241EA29D005A365D /* ContentView.swift */,
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				159AF882241EA29D005A365D /* AppDelegate.swift in Sources */,
+				159AF8B4241EB0DC005A365D /* CircleImage.swift in Sources */,
 				159AF884241EA29D005A365D /* SceneDelegate.swift in Sources */,
 				159AF886241EA29D005A365D /* ContentView.swift in Sources */,
 			);
