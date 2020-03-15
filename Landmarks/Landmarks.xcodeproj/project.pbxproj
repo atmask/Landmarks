@@ -16,6 +16,7 @@
 		159AF899241EA29F005A365D /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 159AF898241EA29F005A365D /* LandmarksTests.swift */; };
 		159AF8A4241EA29F005A365D /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 159AF8A3241EA29F005A365D /* LandmarksUITests.swift */; };
 		159AF8B4241EB0DC005A365D /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 159AF8B3241EB0DC005A365D /* CircleImage.swift */; };
+		159AF8B6241EB279005A365D /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 159AF8B5241EB279005A365D /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		159AF8A3241EA29F005A365D /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		159AF8A5241EA29F005A365D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		159AF8B3241EB0DC005A365D /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		159AF8B5241EB279005A365D /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				159AF8B3241EB0DC005A365D /* CircleImage.swift */,
+				159AF8B5241EB279005A365D /* MapView.swift */,
 				159AF881241EA29D005A365D /* AppDelegate.swift */,
 				159AF883241EA29D005A365D /* SceneDelegate.swift */,
 				159AF885241EA29D005A365D /* ContentView.swift */,
@@ -272,6 +275,7 @@
 			files = (
 				159AF882241EA29D005A365D /* AppDelegate.swift in Sources */,
 				159AF8B4241EB0DC005A365D /* CircleImage.swift in Sources */,
+				159AF8B6241EB279005A365D /* MapView.swift in Sources */,
 				159AF884241EA29D005A365D /* SceneDelegate.swift in Sources */,
 				159AF886241EA29D005A365D /* ContentView.swift in Sources */,
 			);
